@@ -48,6 +48,6 @@
 
 24. [Deep Stereo](https://www.technologyreview.com/s/539051/googles-deep-learning-machine-learns-to-synthesize-real-world-images/)Learning to Predict New Views From the World's Imagery 
 
-25. [Biaxial RNN for Music Composition](https://github.com/hexahedria/biaxial-rnn-music-composition) A recurrent neural network designed to generate classical music. 
+25. [Biaxial RNN for Music Composition](https://github.com/hexahedria/biaxial-rnn-music-composition) A recurrent neural network designed to generate classical music.
 
 
