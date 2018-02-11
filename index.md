@@ -50,4 +50,6 @@
 
 25. [Biaxial RNN for Music Composition](https://github.com/hexahedria/biaxial-rnn-music-composition) A recurrent neural network designed to generate classical music.
 
+**Note:** Refered this http://deeplearninggallery.com/
 
+### 
