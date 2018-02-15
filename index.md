@@ -52,4 +52,5 @@
 
 **Note:** Refered this http://deeplearninggallery.com/
 
-### 
+### Extras
+1. [A year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
