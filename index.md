@@ -54,3 +54,9 @@
 
 ### Extras
 1. [A year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
+
+
+## Important Insights for basics of Deep Learning
+1. [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+2. [Activation Functions: Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) It also has cheat sheet.
+
