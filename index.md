@@ -59,6 +59,12 @@
 ## Important Insights for basics of Deep Learning
 1. [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 2. [Activation Functions: Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) It also has cheat sheet.
+3. [Step by Step Back Propogation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
+## Papers on DAS
+1. End-to-End Deep Learning for Driver Distraction Recognition - Springer
+2. [Top 5% on driver distraction data](pot.in/2016/08/ranked-top-5-percent-in-kaggle.html)
+3. [Transfer Learning of Temporal Information for Driver Action Classification](https://www.researchgate.net/publication/316748306_Transfer_Learning_of_Temporal_Information_for_Driver_Action_Classification)
 
 
 ## Programming Framework
