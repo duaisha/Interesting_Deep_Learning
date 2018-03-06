@@ -60,3 +60,12 @@
 1. [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 2. [Activation Functions: Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) It also has cheat sheet.
 
+
+## Programming Framework
+### Keras
+1. [Display Deep Learning Model Training History in Keras](https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
+2. ### LSTM
+   1. [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+### Tensorflow
+### Pytorch
+
