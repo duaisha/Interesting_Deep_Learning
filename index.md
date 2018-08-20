@@ -54,6 +54,7 @@
 
 ### Extras
 1. [A year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
+2. [Deep Learning Amazing Applications](http://www.yaronhadad.com/deep-learning-most-amazing-applications/)
 
 
 ## Important Insights for basics of Deep Learning
